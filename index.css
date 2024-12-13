@@ -1,0 +1,21 @@
+ h1{
+    text-align:center;
+    color: brown;
+}
+h1:hover{
+    color: black;
+}
+img{
+    margin-left: 50px;
+    border: 2px solid brown;
+}
+p:hover{color: black
+
+}
+*{
+    font-weight: 600;
+
+}
+p{
+    color: brown;
+}
