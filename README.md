@@ -1,0 +1,1 @@
+# SMIT_HTML_Assignment02_Images
